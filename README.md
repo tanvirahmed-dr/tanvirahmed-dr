@@ -9,7 +9,7 @@ Transcriptomics • Cancer Genomics • Neuroscience Bioinformatics • Single-C
 
 I'm a 4th-year medical student (BAMS) at **Government Unani & Ayurvedic Medical College, University of Dhaka**, with a growing focus on transcriptomics, cancer genomics, and neuroscience bioinformatics.
 
-I'm currently building my computational research skills through the **BMP Cohort 2 program (DeepBio Academy)**, where I work on single-cell and bulk RNA-seq analysis using R and Python. My interest lies in connecting my clinical training with data-driven approaches — using public genomic datasets to explore disease mechanisms and contribute to precision medicine research.
+I'm currently building my computational research skills on single-cell and bulk RNA-seq analysis using R and Python. My interest lies in connecting my clinical training with data-driven approaches — using public genomic datasets to explore disease mechanisms and contribute to precision medicine research.
 
 I'm particularly drawn to reproducible, open-science workflows and am actively developing skills in `scRNA-seq analysis`, `bulk RNA-seq meta-analysis`, and `statistical/biomedical data interpretation`.
 
@@ -38,9 +38,8 @@ I'm particularly drawn to reproducible, open-science workflows and am actively d
 
 ## Skills
 
-**Languages/Tools:** R (tidyverse) · Python · Linux · SPSS · Zotero
-**Focus areas:** Data cleaning & visualization · Statistical analysis · scRNA-seq/bulk RNA-seq pipelines · Academic & scientific writing
-
+**Languages/Tools:** R · Python · Linux · SPSS · Zotero
+**Focus areas:** · scRNA-seq/bulk RNA-seq pipelines · Data cleaning & visualization · statistical/biomedical data interpretation
 ---
 
 ## Background
