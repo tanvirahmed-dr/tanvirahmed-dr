@@ -39,8 +39,8 @@ I'm particularly drawn to reproducible, open-science workflows and am actively d
 ## Skills
 
 **Languages/Tools:** R · Python · Linux · SPSS · Zotero
-**Focus areas:** · scRNA-seq/bulk RNA-seq pipelines · Data cleaning & visualization · statistical/biomedical data interpretation
----
+
+**Focus areas:** scRNA-seq/bulk RNA-seq pipelines · Data cleaning & visualization · statistical/biomedical data interpretation
 
 ## Background
 
