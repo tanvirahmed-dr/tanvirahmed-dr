@@ -44,5 +44,5 @@ I'm particularly drawn to reproducible, open-science workflows and am actively d
 
 ## Background
 
-🎓 BAMS (4th Year), Govt. Unani & Ayurvedic Medical College, University of Dhaka — *1st Position, First Professional Exam*
+🎓 4th-year Medical Student, Faculty of Medicine, University of Dhaka — *1st Position, First Professional Exam*
 📍 Dhaka, Bangladesh
